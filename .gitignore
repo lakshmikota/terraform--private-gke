@@ -1,1 +1,3 @@
 test-project-dev.json
+.terraform/
+.terraform.lock.hcl
